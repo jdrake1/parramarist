@@ -10,8 +10,8 @@
 include_once 'oauth-php/library/OAuthStore.php';
 include_once 'oauth-php/library/OAuthRequester.php';
 
-$consumerKey = 'SET_CONSUMER_KEY_HERE';
-$consumerSecret = 'SET_CONSUMER_SECRET_HERE';
+$consumerKey = 'tqx3UTBz3j8NSe7F';
+$consumerSecret = 'kGCgAHGZTFpQ3NhH';
 $loginCallback = 'http://localhost:8001/ka_client.php';
 
 $baseUrl = 'https://www.khanacademy.org';
